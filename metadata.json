@@ -1,0 +1,8 @@
+{
+  "name": "EstudaFácil",
+  "description": "Aprenda de forma simples e inteligente. Aplicativo moderno de estudos com matérias, progresso, exercícios e suporte.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
